@@ -1,3 +1,3 @@
 # SAPI's Marketplace
 
-This repo holds all projects / apps (mobile & web, using different frameworks) listed in the Marketplace section.
+This repo holds all apps (mobile & web in different frameworks) listed in the Marketplace section.
